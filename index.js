@@ -18,17 +18,6 @@ function newTask(title, description) {
 
 
 
-// Mark a task as complete by setting the task's status in the `taskComplete` array to `true`
-function completeTask(task) {
-  task.complete = true;
-}
-
-// Print the state of a task to the console in a nice readable way
-function logTaskState(task) {
-
-
-}
-
 // DRIVER CODE BELOW
 
 
